@@ -163,7 +163,7 @@ hej — casual hey
 
 random_greetings = random.choice(greetings)
 
-print(f"\n\nGreetings! {random_greetings}\n")
+print(f"\nGreetings! {random_greetings}")
 
 # + Thank You in all Languages
 #There are 2,300 languages in Asia
